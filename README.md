@@ -1,11 +1,11 @@
 # blitz template
 
 - [x] basic
-- [x] tailwindcss
-- [x] prettier
+- [ ] tailwindcss
+- [ ] prettier
 - [ ] eslint
 - [ ] stylelint
-- [x] lint-staged
+- [ ] lint-staged
 
 Adapaters:
 
