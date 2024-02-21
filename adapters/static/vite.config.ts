@@ -10,5 +10,5 @@ export default mergeConfig(
         origin: "https://www.youtube.com",
       }),
     ],
-  })
+  }),
 );

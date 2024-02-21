@@ -2,7 +2,7 @@
 
 - [x] basic
 - [x] tailwindcss
-- [ ] prettier
+- [x] prettier
 - [ ] eslint
 
 Adapaters:
