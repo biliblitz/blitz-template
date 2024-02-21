@@ -1,7 +1,7 @@
 # blitz template
 
 - [x] basic
-- [ ] tailwindcss
+- [x] tailwindcss
 - [ ] prettier
 - [ ] eslint
 
