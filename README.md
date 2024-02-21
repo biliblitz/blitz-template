@@ -8,4 +8,4 @@
 Adapaters:
 
 - [x] node server
-- [x] static site generate
+- [ ] static site generate
