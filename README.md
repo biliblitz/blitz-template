@@ -3,7 +3,9 @@
 - [x] basic
 - [x] tailwindcss
 - [x] prettier
-- [ ] eslint
+- [x] eslint
+- [x] stylelint
+- [x] lint-staged
 
 Adapaters:
 
