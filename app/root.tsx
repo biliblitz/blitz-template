@@ -3,7 +3,7 @@ import { BlitzCityProvider, RouterHead, RouterOutlet } from "@biliblitz/blitz";
 import "./global.css";
 import "./tailwind.css";
 
-export default  () => {
+export default () => {
   return (
     <BlitzCityProvider lang="en-US">
       <head>
@@ -17,4 +17,4 @@ export default  () => {
       </body>
     </BlitzCityProvider>
   );
-}
+};
